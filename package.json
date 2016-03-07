@@ -76,6 +76,7 @@
     "stylus-loader": "^1.4.0",
     "vue-hot-reload-api": "^1.2.0",
     "vue-html-loader": "^1.0.0",
+    "handlebars-loader": "^1.1.4",
     "webpack": "^1.12.2"
   }
 }
